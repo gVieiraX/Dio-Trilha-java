@@ -11,7 +11,7 @@ short numeroCurto2 = (short) numeroNormal;
 
 int numero = 5;
 
-numero = 10;
+numero = 12;
 
         System.out.println(numero);
 

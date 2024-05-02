@@ -5,7 +5,7 @@ public class ContaTerminal {
     public static void main(String[] args) throws Exception {
         Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
 
-        System.out.println("Bem-Vindo a nossa agência bancaria!");
+        System.out.println("Seja Bem-Vindo a nossa agência bancaria!");
         
         System.out.println("Digite seu nome: ");
         String nome = scanner.next();
