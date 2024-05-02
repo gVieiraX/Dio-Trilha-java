@@ -7,7 +7,7 @@
  *
  * @author  Gabriel Vieira Silva Rosa
  * @version 1.0
- * @since   01/01/2022
+ * @since   01/01/2024
  */
 public class Calculadora {
     /**
