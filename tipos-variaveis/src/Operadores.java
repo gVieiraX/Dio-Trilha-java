@@ -18,13 +18,13 @@ public class Operadores {
        boolean condition2 = true;
 
        if (condition1 && condition2){
-           System.out.println(" as duas condições são veradeira");
+           System.out.println("As duas condições são veradeira");
        }else{
            System.out.println("fim");
        }
 
        if (condition1 || condition2){
-           System.out.println(" uma das condições é veradeira");
+           System.out.println("Uma das condições é veradeira");
        }else{
            System.out.println("fim");
        }
