@@ -4,14 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0809e507-444c-40b9-b218-a3fc0688d873" name="Changes" comment="" />
+    <list default="true" id="21f1cbdd-0961-4fbe-a337-2c7c753ce55f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Construtores/.idea/workspace.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
   "lastFilter": {
@@ -29,30 +38,30 @@
   }
 }]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
+  "associatedIndex": 5
 }]]></component>
-  <component name="ProjectId" id="2gWEn2CgVxodBb6p4eK1XcqHi2C" />
+  <component name="ProjectId" id="2gZDQWZJERku5HqoT5yhWPSZqSR" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.SistemaCadastro.executor": "Run",
+    "Application.Autodromo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Usuario/Desktop/estudos-dio-java/dio-trilha-java/Construtores"
+    "last_opened_file_path": "C:/Users/Usuario/Desktop/estudos-dio-java/dio-trilha-java/POO/PilaresPOO"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0809e507-444c-40b9-b218-a3fc0688d873" name="Changes" comment="" />
-      <created>1715805096356</created>
+      <changelist id="21f1cbdd-0961-4fbe-a337-2c7c753ce55f" name="Changes" comment="" />
+      <created>1715896189641</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1715805096356</updated>
+      <updated>1715896189641</updated>
     </task>
     <servers />
   </component>
