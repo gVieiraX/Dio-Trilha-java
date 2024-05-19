@@ -4,10 +4,10 @@ Este repositório foi criado para documentar o aprendizado no curso de Java. Nel
 
 Com uma proposta de propocionar uma sólida compreensão e desenvolvimento back-end em Java, irei explorar os conceitos teóricos fundamentais e implementações práticas da linguagem. Como aluno documentando o curso, a minha proposta é compartilhar o conhecimento adquirido ao longo do processo de aprendizagem.
 
-# Conteúdo abordado no curso
-* Principios  de Desenvolvimento de Software Colaborativo
-* Dominando a Linguagem de Programação 
-* Programação Orientada a Objetos
+# Conteúdo abordado no curso 
+* Principios  de Desenvolvimento de Software Colaborativo ✔️
+* Dominando a Linguagem de Programação ✔️  
+* Programação Orientada a Objetos ⏳
 * Teste e Gerenciamentos de Depêndencias em Projetos 
 * Banco de Dados SQL e NoSQL Para Desenvolvedores Back-end
 * Spring Framework
