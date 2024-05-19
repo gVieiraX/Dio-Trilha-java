@@ -1,4 +1,4 @@
-# Trilha de JAVA da [DIO](https://web.dio.me/home) ☕👩🏾‍💻
+# Trilha de JAVA da [DIO](https://www.dio.me/sign-up?ref=0HLTFOGNMR) ☕👩🏾‍💻
 
 Este repositório foi criado para documentar o aprendizado no curso de Java. Aqui, você encontrará uma variedade de exercícios e desafios.
 
