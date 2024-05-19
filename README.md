@@ -1,6 +1,6 @@
 # Trilha de JAVA da [DIO](https://www.dio.me/sign-up?ref=0HLTFOGNMR) ☕👩🏾‍💻
 
-Este repositório foi criado para documentar o aprendizado no curso de Java. Aqui, você encontrará uma variedade de exercícios e desafios.
+Este repositório foi criado para documentar o aprendizado no curso de Java. Nele, contém vários exercícios e desafios.
 
 Com uma proposta de propocionar uma sólida compreensão e desenvolvimento back-end em Java, irei explorar os conceitos teóricos fundamentais e implementações práticas da linguagem. Como aluno documentando o curso, a minha proposta é compartilhar o conhecimento adquirido ao longo do processo de aprendizagem.
 
