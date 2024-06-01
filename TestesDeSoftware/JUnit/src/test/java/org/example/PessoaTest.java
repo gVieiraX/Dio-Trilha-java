@@ -9,7 +9,7 @@ public class PessoaTest {
 
     @Test
     void validarCalculoIdade(){
-        Pessoa pessoa = new Pessoa("Gabriel", LocalDate.of(2003,1,1));
-        Assertions.assertEquals(21,pessoa.getIdade());
+        Pessoa pessoa = new Pessoa("Gabriel", LocalDate.of(2002,1,1));
+        Assertions.assertEquals(22,pessoa.getIdade());
     }
 }
