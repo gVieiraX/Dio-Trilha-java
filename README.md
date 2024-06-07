@@ -8,9 +8,9 @@ Com uma proposta de propocionar uma sólida compreensão e desenvolvimento back-
 * Principios  de Desenvolvimento de Software Colaborativo ✔️
 * Dominando a Linguagem de Programação ✔️  
 * Programação Orientada a Objetos ✔️ 
-* Teste e Gerenciamentos de Depêndencias em Projetos ⏳
-* Banco de Dados SQL e NoSQL Para Desenvolvedores Back-end
-* Spring Framework
+* Teste e Gerenciamentos de Depêndencias em Projetos ✔️ 
+* Banco de Dados SQL e NoSQL Para Desenvolvedores Back-end ⏳
+* Spring Framework ⏳
 * Soft Skill na Era Ágil
 
 # Projeto
