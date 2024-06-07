@@ -10,7 +10,6 @@ public class MyApp  implements CommandLineRunner {
     private Calculadora calc;
     @Override
     public void run(String... args) throws Exception {
-        System.out.println("o resultado é " +calc.somar(2,343));
-
+        System.out.println("o resultado é " +calc.somar(2,9));
     }
 }

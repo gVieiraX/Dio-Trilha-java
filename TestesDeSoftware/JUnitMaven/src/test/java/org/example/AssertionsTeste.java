@@ -18,7 +18,7 @@ public class AssertionsTeste {
     void validarLancamentos(){
 
         int[] primeiroLancamento = {10,20,30,40,50};
-        int[] segundoLancamento = {10,20,30,40,50};
+        int[] segundoLancamento = {23,53,3,23,3};
 
         assertArrayEquals(primeiroLancamento,segundoLancamento);
     }
