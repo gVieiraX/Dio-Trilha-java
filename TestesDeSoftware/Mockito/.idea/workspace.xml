@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ca27d4dc-faa7-4144-b599-58e09af5a54c" name="Changes" comment="mockito">
+      <change beforePath="$PROJECT_DIR$/../JUnit/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JUnit/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JUnitMaven/src/test/java/org/example/AssertionsTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JUnitMaven/src/test/java/org/example/AssertionsTeste.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;gVieiraX&quot;
+  }
+}</component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/gVieiraX/Dio-Trilha-java.git&quot;,
+    &quot;accountId&quot;: &quot;e7f1ad1d-481a-45b7-add8-23ae6a9ee92d&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2hIW9qSgMkCG5kcDIwSOkJRfK8W" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.CadastrarPessoaTeste.executor": "Run",
+    "JUnit.CadastrarPessoaTeste.validarDadosDeCadastro.executor": "Debug",
+    "JUnit.EnviarMensagemTeste.executor": "Run",
+    "JUnit.EnviarMensagemTeste.verificarComportamentoClasse.executor": "Run",
+    "JUnit.ListaTeste.adicionarItemNaLista.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Usuario/Desktop/Dio-Trilha-java/Spring-Framework",
+    "onboarding.tips.debug.path": "C:/Users/Usuario/Desktop/Dio-Trilha-java/TestesDeSoftware/Mockito/src/main/java/org/example/Main.java",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.EnviarMensagemTeste">
+    <configuration name="CadastrarPessoaTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mockito" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CadastrarPessoaTeste" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CadastrarPessoaTeste.validarDadosDeCadastro" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mockito" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CadastrarPessoaTeste" />
+      <option name="METHOD_NAME" value="validarDadosDeCadastro" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnviarMensagemTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mockito" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EnviarMensagemTeste" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnviarMensagemTeste.verificarComportamentoClasse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mockito" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EnviarMensagemTeste" />
+      <option name="METHOD_NAME" value="verificarComportamentoClasse" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListaTeste.adicionarItemNaLista" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mockito" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ListaTeste" />
+      <option name="METHOD_NAME" value="adicionarItemNaLista" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.EnviarMensagemTeste" />
+        <item itemvalue="JUnit.EnviarMensagemTeste.verificarComportamentoClasse" />
+        <item itemvalue="JUnit.CadastrarPessoaTeste.validarDadosDeCadastro" />
+        <item itemvalue="JUnit.CadastrarPessoaTeste" />
+        <item itemvalue="JUnit.ListaTeste.adicionarItemNaLista" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca27d4dc-faa7-4144-b599-58e09af5a54c" name="Changes" comment="" />
+      <created>1717281924066</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717281924066</updated>
+    </task>
+    <task id="LOCAL-00001" summary="mockito">
+      <option name="closed" value="true" />
+      <created>1717361714653</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717361714653</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="mockito" />
+    <option name="LAST_COMMIT_MESSAGE" value="mockito" />
+  </component>
+</project>
