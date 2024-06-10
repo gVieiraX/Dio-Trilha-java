@@ -37,7 +37,7 @@
                 <list>
                   <RecentBranch>
                     <option name="branchName" value="main" />
-                    <option name="lastUsedInstant" value="1717971049" />
+                    <option name="lastUsedInstant" value="1718063044" />
                   </RecentBranch>
                 </list>
               </option>
@@ -73,7 +73,7 @@
   "keyToString": {
     "Application.DioSpringSecurityApplication.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "46be612d",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Usuario/Desktop/Dio-Trilha-java/Spring-Framework/dio-spring-security",
     "project.structure.last.edited": "Project",
@@ -122,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718062833865</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="spring security with database">
+      <option name="closed" value="true" />
+      <created>1718063240656</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718063240656</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
