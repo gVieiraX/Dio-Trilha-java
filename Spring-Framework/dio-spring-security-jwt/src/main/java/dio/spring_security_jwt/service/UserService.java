@@ -1,4 +1,4 @@
-package dio.spring_security_jwt.security;
+package dio.spring_security_jwt.service;
 
 import dio.spring_security_jwt.model.User;
 import dio.spring_security_jwt.repository.UserRepository;

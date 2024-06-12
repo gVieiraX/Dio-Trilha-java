@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6783503a-9bbe-4e78-a6d1-cfa6c5072ce1" name="Changes" comment="spring security with database">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6783503a-9bbe-4e78-a6d1-cfa6c5072ce1" name="Changes" comment="spring security" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -140,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718063557499</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="spring security">
+      <option name="closed" value="true" />
+      <created>1718147342794</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1718147342794</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -167,8 +173,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="spring security" />
     <MESSAGE value="spring security with database" />
-    <option name="LAST_COMMIT_MESSAGE" value="spring security with database" />
+    <MESSAGE value="spring security" />
+    <option name="LAST_COMMIT_MESSAGE" value="spring security" />
   </component>
 </project>
