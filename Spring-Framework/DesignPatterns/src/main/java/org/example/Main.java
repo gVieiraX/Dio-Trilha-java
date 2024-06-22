@@ -1,5 +1,6 @@
 package org.example;
 
+import org.example.facade.Facade;
 import org.example.singleton.SingletonEager;
 import org.example.singleton.SingletonLazy;
 import org.example.singleton.SingletonLazyHolder;
@@ -39,5 +40,12 @@ public class Main {
         robo.mover();
         robo.mover();
         robo.mover();
+
+
+    //Facade
+
+        Facade facade = new Facade();
+        facade.migrarCliente("Gabriel","35190-624");
+
     }
 }
