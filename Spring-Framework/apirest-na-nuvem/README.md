@@ -18,10 +18,10 @@
     }
 
     class Account {
-        +String accountNumber
-        +String accountAgency
-        +Number accountBalance
-        +Number accountLimit
+        +String Number
+        +String Agency
+        +Number Balance
+        +Number Limit
     }
 
     class Feature {
