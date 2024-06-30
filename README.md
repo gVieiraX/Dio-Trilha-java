@@ -9,9 +9,9 @@ Com a proposta de proporcionar uma sólida compreensão e desenvolvimento back-e
 * Dominando a Linguagem de Programação ✔️
 * Programação Orientada a Objetos ✔️
 * Teste e Gerenciamento de Dependências em Projetos ✔️
-* Banco de Dados SQL e NoSQL para Desenvolvedores Back-end ⏳
-* Spring Framework ⏳
-* Soft Skills na Era Ágil
+* Banco de Dados SQL e NoSQL para Desenvolvedores Back-end ✔️
+* Spring Framework ✔️
+* Soft Skills na Era Ágil ✔️
   
 # Projeto
 Este repositório será atualizado constantemente até o final do curso. Sinta-se à vontade para contribuir. Em caso de dúvidas ou sugestões, entre em contato comigo.
